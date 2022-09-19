@@ -1,3 +1,16 @@
+
+
+
+
+
+![Scatter_Chart](https://user-images.githubusercontent.com/97116053/190960124-65612032-9191-403f-98de-aa8cf1a3565b.jpeg)
+
+
+![Bar_Chart](https://user-images.githubusercontent.com/97116053/190960176-17cc5aa6-8dc0-441f-8470-b5b6bd47ad48.jpeg)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
